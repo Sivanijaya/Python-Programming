@@ -1,19 +1,6 @@
 # Python-Programming
 A collection of Python programs covering fundamentals, control structures, functions, data structures, file handling, object-oriented programming, and mini projects for learning and practice.
 
-Of course 👍
-Here is your **README with new Mini Projects section replaced** (fresh Python-relevant projects instead of the common ones).
-
-You can copy-paste directly into GitHub.
-
----
-
-# Python Programming Repository
-
-A collection of Python programs covering fundamentals, control structures, functions, data structures, file handling, object-oriented programming, and mini projects for learning and practice.
-
----
-
  Contents Covered
 
 🔹 **Basics**
