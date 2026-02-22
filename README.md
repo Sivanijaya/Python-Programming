@@ -1,97 +1,82 @@
 # Python-Programming
 A collection of Python programs covering fundamentals, control structures, functions, data structures, file handling, object-oriented programming, and mini projects for learning and practice.
 
-Contents Covered
+Of course 👍
+Here is your **README with new Mini Projects section replaced** (fresh Python-relevant projects instead of the common ones).
 
-🔹Basics
+You can copy-paste directly into GitHub.
 
-Hello World
+---
 
-Variables & Data Types
+# Python Programming Repository
 
-Operators
+A collection of Python programs covering fundamentals, control structures, functions, data structures, file handling, object-oriented programming, and mini projects for learning and practice.
 
-Input / Output
+---
 
-🔹Control Statements
-if–else
+ Contents Covered
 
-match-case
+🔹 **Basics**
 
-for and while loops
+* Hello World
+* Variables & Data Types
+* Operators
+* Input / Output
 
-break & continue
+🔹 **Control Statements**
 
-🔹Functions & Recursion
+* if–else
+* match-case
+* for and while loops
+* break & continue
 
-User-defined functions
+🔹 **Functions & Recursion**
 
-Arguments & return values
+* User-defined functions
+* Arguments & return values
+* Lambda functions
+* Factorial & Fibonacci using recursion
 
-Lambda functions
+🔹 **Data Structures**
 
-Factorial & Fibonacci using recursion
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+* List comprehensions
 
-🔹Data Structures
+🔹 **Strings**
 
-Lists
+* String operations
+* String methods
+* Palindrome & reverse
+* Formatting
 
-Tuples
+🔹 **File Handling**
 
-sets
+* Read from file
+* Write to file
+* Append data
+* Working with CSV/Text files
 
-Dictionaries
+🔹 **Object-Oriented Programming**
 
-List comprehensions
+* Classes & Objects
+* Constructors
+* Inheritance
+* Polymorphism
+* Encapsulation
 
-🔹Strings
+🔹 **Modules & Packages**
 
-String operations
+* Importing modules
+* Creating modules
+* Standard library usage
 
-String methods
+🔹 **Mini Projects**
 
-Palindrome & reverse
-
-Formatting
-
-🔹File Handling
-
-Read from file
-
-Write to file
-
-Append data
-
-Working with CSV/Text files
-
-🔹Object-Oriented Programming
-
-Classes & Objects
-
-Constructors
-
-Inheritance
-
-Polymorphism
-
-Encapsulation
-
-🔹Modules & Packages
-
-Importing modules
-
-Creating modules
-
-Standard library usage
-
-🔹Mini Projects
-
-Password Generator
-
-Quiz Application
-
-Contact Book (CLI)
-
-Expense Tracker
-
-To-Do List Manager
+* Password Generator
+* Quiz Application
+* Contact Book (CLI)
+* Expense Tracker
+* To-Do List Manager
